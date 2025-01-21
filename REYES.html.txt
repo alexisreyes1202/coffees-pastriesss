@@ -1,0 +1,311 @@
+<html>
+<head>
+<title>MY BIBLIOGRAPHY</title>
+</head>
+<body style = "background-color:powderblue;">
+<h1 style="color:black;text-align:center; border: 5px solid black" > &#129321 ALEXIS CARINAN REYES &#129321
+</h1>
+<a href= "https:www.facebook.com/alexis.reyes.1202">
+<p style="text-align: center"> &#129395 Social Media Account &#129395 </p>
+</a>
+<p style="text-align: center"><img src ="file:///C:/Users/alexi/OneDrive/Documents/HTML/REYES-FORMALPICTURE.jpg" width = "100" height = "100";text-align:center;border: 5px solid black">
+</p>
+
+<div style="background-color:#00BFFF; padding: 2px; border: 5px solid black">
+<p style="color:darkblue;text-align:center;border: 5px solid black">
+Good day, I'm Alexis C. Reyes from BTVTED-EST-1A-M. My family is consist of 5 members, plus 3 if you would include my pets. Let's, begin with my father, My father is a tricycle driver/kagawad in our barangay. My mother worked is a Janitress in Popey's office in Paco, Manila. My sister is working in a IT Company in Quezon City, Metro Manila. Lastly, my brother is currently working in KFC. And me, I am the youngest among my family, I do love being the youngest, because I could always get what I wanted, just joking. Actually, being the youngest is a bit tough too if you would ask me, you get scolded all the time, you always need to do the task that is given to you by your older siblings, because if you did not, you're done. I have a pet named, Simba which I do really love, he is a 5 year old aspin and my cat named, Snow and her child Star. They're both my stress relievers when I'm stressed.
+<br>
+<img src = "file:///C:/Users/alexi/OneDrive/Documents/HTML/FAMILY.jpg" width = "100" height = "100"
+</div>
+</p>
+
+<div style="background-color:#FF69B4; padding: 2px; border: 5px solid black">
+<p style="color:blue;text-align:center;border: 5px solid black">
+I do love playing online moba games all the time like, League of Legends, Wildrift, and sometimes Mobile Legends. I also do love doing binch watching (watching stuffs), I watch anime series in my free time like arcane and demon slayer, like when it's time for summer break and stuffs. I do love hanging out with my friends and grab some coffee with them to relax. I do love exploring and adventuring my city and other cities to relax and take a break from schoolworks and family stuffs.
+<br>
+<img src = "file:///C:/Users/alexi/OneDrive/Documents/HTML/HOBBY.jpg" width = "100" height = "100"
+</div>
+</p>
+
+<div style="background-color:#00BFFF; padding: 2px; border: 5px solid black">
+<p style="color:darkblue;text-align:center;border: 5px solid black">
+My favorite quotation as of now comes from the animated series called Arcane, in the Arcane series there is a character named, Vander. There, he once to his child that "You've got a good heart, don't ever lose it. No matter how the world tries to break you." It deeply touches, because yeah people can destroy your image, damge your personality, create rumors about you, but they canm never take your good deed. Because no matter how they describe you, you will always be admired by those who knows you the best. In that animeated series called Arcane, there is also a quote that says "Is there anything so undoing than a daughter?." It also depeply touches me, because yeah we do all the things for the people we truly love, even though it breaks us sometimes.
+<br>
+<img src = "file:///C:/Users/alexi/OneDrive/Documents/HTML/FAV%20QUOTE.jpg" width = "100" height = "100"
+</div>
+</p>
+
+<div style="background-color:#FF69B4; padding: 2px; border: 5px solid black">
+<p style="color:blue;text-align:center;border: 5px solid black">
+Honestly, my only dream is to become genuinely happy with my life and be contented and appreciate what I have now. Because, sometimes we forgot what we have now and ask for things that didn't really matter. On the other hand, I've always dreamed of being a Licensed Veterinary Doctor, but yeah, some things didn't really go well from what we've planned, maybe it's God plan that I'm here now, in this course, I mean who knows. My goal in life is to graduate, have a decent job, and be succesfull in his life time, because obviously for my family and also for myself, because they're my everything.
+<br>
+<img src = "file:///C:/Users/alexi/OneDrive/Documents/HTML/GOAL.jpg" width = "100" height = "100"
+</div>
+</p>
+
+<style>
+table {
+font-family: arial, sans-serif;
+border-collapse: collapse;
+width: 100%
+}
+
+td, th {
+border: 1px solid#dddddd;
+text-align: left;
+padding: 8px;
+}
+
+tr:nth-child(even){
+background-color:#FFF0FF5;
+
+</style>
+<br>
+<H2 STYLE="COLOR:BLACK:text-align: left; border; 5px solid black; background-color:#FFF0F5">My Schedule</h2>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">MONDAY</th>
+<th style="width:30%">SUBJECT<th>
+<th>REMARKS</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">11AM-2PM</th>
+<th style="width:30%">PROF ED 2<th>
+<th>REPORTING OF UNIT 6</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">TUESDAY</th>
+<th style="width:30%">SUBJECT<th>
+<th>REMARKS</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">7AM-10AM</th>
+<th style="width:30%">AGRI FISHERY LEC<th>
+<th>MIDTERM</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">10AM-11AM</th>
+<th style="width:30%">BREAK<th>
+<th>REMARKS</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">11AM-2PM</th>
+<th style="width:30%">MMW<th>
+<th>MIDTERMS EXAM</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">2PM-2:30PM</th>
+<th style="width:30%">BREAK<th>
+<th>REMARKS</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">2:30PM-5:30PM</th>
+<th style="width:30%">ICT LAB<th>
+<th>HTML</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">WEDNESDAY</th>
+<th style="width:30%">SUBJECT<th>
+<th>REMARKS</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">7AM-10AM</th>
+<th style="width:30%">AGRI FISHERY LAB<th>
+<th>MIDTERM PROJECT BASED</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">10AM-11AM</th>
+<th style="width:30%">BREAK<th>
+<th>REMARKS</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">11AM-1PM</th>
+<th style="width:30%">PATH FIT 1<th>
+<th>ZUMBA DANCE</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">1PM-2:30PM</th>
+<th style="width:30%">BREAK<th>
+<th>REMARKS</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">2:30PM-5:30PM</th>
+<th style="width:30%">ICT LAB<th>
+<th>HTML</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">THURSDAY</th>
+<th style="width:30%">SUBJECT<th>
+<th>REMARKS</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">7AM-10AM</th>
+<th style="width:30%">AGRI FISHERY LAB<th>
+<th>MIDTERM PROJECT BASED</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">10AM-11AM</th>
+<th style="width:30%">BREAK<th>
+<th>REMARKS</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">11AM-2PM</th>
+<th style="width:30%">PROF ED 2<th>
+<th>RESEARCH</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">2PM-2:30</th>
+<th style="width:30%">BREAK<th>
+<th>REMARKS</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">2:30PM-5:30PM</th>
+<th style="width:30%">ICT LAB<th>
+<th>HTML</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">FRIDAY</th>
+<th style="width:30%">SUBJECT<th>
+<th>REMARKS</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">7AM-10AM</th>
+<th style="width:30%">AGRI FISHERY LAB<th>
+<th>MIDTERM PROJECT BASED</TH>
+</tr>
+<tr>
+
+<table>
+<tr>
+<tr style="padding: 5px; border: 5px solid black">
+<tr style="background-color:#FFB6C1; padding: 5px; border: 5px solid black">
+<th style="width:30%">11AM-2PM</th>
+<th style="width:30%">PURPOSIVE COMM<th>
+<th>PISA ASSIGNMENT</TH>
+</tr>
+<tr>
+
+<!HERE STARTS THE FORM>
+<h2>My Forms</h2>
+<form action="/action_page.php">
+<label for="fname">First name:</label><br>
+<input type="text" id="fname" name="fname" value="Alexis"><br>
+<label for="lname">Last name:</label><br>
+<input type="text" id="lname" name="lname" value="Reyes"><br>
+<br>
+<input type="submit" value="Submit">
+</form>
+
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+
+</body>
+
+</html>
